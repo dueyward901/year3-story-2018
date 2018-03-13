@@ -1,7 +1,7 @@
 # year3-story-2018
-Michael Ward
-Web Software Engineering Year 2 Semester 2
-Git Story
+Michael Ward <br>
+Web Software Engineering Year 2 Semester 2 <br>
+Git Story <br>
 
 
 
