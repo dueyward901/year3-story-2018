@@ -1,7 +1,12 @@
-# year3-story-2018
-repository to fork for the 'git story' assessment
 
-for this repo, to use as a starting point for your story
-(and don't forget to complete your assessment by making a 'pull request' back to me...)
+#Michael Ward
+#Web Software Engineering Year 2 Semester 2
+#Git Story
 
-.. matt smith ...
+
+Chapters:
+
+<a href="Chapter01.html">Chapter 1 </a>
+<a href="Chapter02.html">Chapter 2 </a>
+<a href="Chapter03.html">Chapter 3 </a>
+
